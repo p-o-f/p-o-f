@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/4176ca8e-3265-4a74-874a-ce173441e26d" />## Hi, I'm Parthib! 👋
 
 ### 💻 Languages & Technologies
 
@@ -13,7 +13,7 @@
 
 ### 🎓 Education
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Arizona_State_University_logo.svg" alt="ASU Logo" width="300"/>
+<img width="960" height="739" alt="image" src="https://github.com/user-attachments/assets/014df7c9-83e6-4d60-8cd4-90f018cbbf6f" />
 
 **Bachelor of Science in Computer Engineering**  
 Arizona State University  
