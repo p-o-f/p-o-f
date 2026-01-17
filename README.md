@@ -20,7 +20,6 @@ Arizona State University
 Graduated: May 2025
 
 <br clear="left"/>
-
 ---
 
 ### 💼 Professional Experience
