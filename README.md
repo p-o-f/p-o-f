@@ -13,11 +13,13 @@
 
 ### 🎓 Education
 
-<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/4176ca8e-3265-4a74-874a-ce173441e26d" />
+<img align="left" width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/4176ca8e-3265-4a74-874a-ce173441e26d" />
 
 **Bachelors in Computer Engineering**  
 Arizona State University  
 Graduated: May 2025
+
+<br clear="left"/>
 
 ---
 
