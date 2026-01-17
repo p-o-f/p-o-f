@@ -1,4 +1,4 @@
-<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/4176ca8e-3265-4a74-874a-ce173441e26d" />## Hi, I'm Parthib! 👋
+## Hi, I'm Parthib! 👋
 
 ### 💻 Languages & Technologies
 
@@ -13,9 +13,9 @@
 
 ### 🎓 Education
 
-<img width="960" height="739" alt="image" src="https://github.com/user-attachments/assets/014df7c9-83e6-4d60-8cd4-90f018cbbf6f" />
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/4176ca8e-3265-4a74-874a-ce173441e26d" />
 
-**Bachelor of Science in Computer Engineering**  
+**Bachelors in Computer Engineering**  
 Arizona State University  
 Graduated: May 2025
 
@@ -55,12 +55,6 @@ Graduated: May 2025
 
 - Implemented a **traffic light controller**, a **FitBit simulator**, and a **4x4 systolic array matrix multiplier**
 - **RTL design, simulation, synthesis, implementation**, constraint editing, timing analysis, and bitstream generation
-
-##### **Embedded Temperature & Humidity Control System** | *Jun 2023 – Aug 2023*
-*Engineer Intern – Microchip (Chandler, AZ)*
-
-- Built an embedded temperature and humidity control system with **C on PIC16/PIC18 microcontrollers** by combining sensor integration, real-time data processing, and automated control mechanisms to enable real-time processing
-- Verified hardware performance through benchmarking and data analysis, increasing testing accuracy while reducing validation time
 
 #### **Software Projects**
 
