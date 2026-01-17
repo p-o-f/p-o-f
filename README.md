@@ -22,11 +22,18 @@ Graduated: May 2025
 ---
 
 ### 💼 Professional Experience
-##### **Software Engineer** | *Aug 2025 – Present*
-*Wells Fargo (Chandler, AZ)*
 
-##### **Software Engineer Intern** | *Jun 2024 – Aug 2024*
-*Wells Fargo (Chandler, AZ)*
+#### 🏦 Wells Fargo | *Chandler, AZ*
 
-##### **Engineer Intern** | *Jun 2023 – Aug 2023*
-*Microchip (Chandler, AZ)*
+**Software Engineer**  
+*August 2025 – Present*
+
+**Software Engineer Intern**  
+*June 2024 – August 2024*
+
+#### 🔌 Microchip | *Chandler, AZ*
+
+**Engineer Intern**  
+*June 2023 – August 2023*
+
+---
