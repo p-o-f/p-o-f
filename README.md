@@ -14,6 +14,7 @@
 ### 🎓 Education
 
 <img align="left" width="120" height="67" alt="image" src="https://github.com/user-attachments/assets/4176ca8e-3265-4a74-874a-ce173441e26d" />
+<img align="left" width="120" height="67" alt="image" src="https://github.com/user-attachments/assets/7e37e7c5-7948-4dcf-b9b4-9ad3b543760b" />
 
 **Bachelors in Computer Engineering**  
 Arizona State University  
