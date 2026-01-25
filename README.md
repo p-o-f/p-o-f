@@ -12,6 +12,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🎓 Education
+<img align="left" width="120" height="67" alt="image" src="https://github.com/user-attachments/assets/7e37e7c5-7948-4dcf-b9b4-9ad3b543760b" />
+
+**Masters in Computer Engineering**  
+Arizona State University  
+In progress: full time with a full ride scholarship
+Graduating: December 2026
 
 <img align="left" width="120" height="67" alt="image" src="https://github.com/user-attachments/assets/7e37e7c5-7948-4dcf-b9b4-9ad3b543760b" />
 
