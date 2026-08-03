@@ -14,7 +14,7 @@
 ### 🎧🎮✨ Interests and Hobbies
 HW-SW Codesign, Agentic AI, Fullstack (Backend leaning) development, Embedded Systems
 - Video games (mainly FPS and co-op)
-- Writing + reading (mostly non-fiction currently, getting more into fiction)
+- Writing + reading
 - Anime
 - Building things (producing YouTube videos, projects, anything really)
 
@@ -23,7 +23,7 @@ HW-SW Codesign, Agentic AI, Fullstack (Backend leaning) development, Embedded Sy
 
 **Masters in Computer Engineering**  
 Arizona State University  
-In progress, graduating December 2026
+Graduating December 2026
 
 <img align="left" width="120" height="67" alt="image" src="https://github.com/user-attachments/assets/7e37e7c5-7948-4dcf-b9b4-9ad3b543760b" />
 
@@ -38,7 +38,7 @@ Graduated: May 2025
 #### Wells Fargo | *Chandler, AZ*
 
 **Software Engineer**  
-*August 2025 – Present*
+*August 2025 – August 2026*
 
 **Software Engineer Intern**  
 *June 2024 – August 2024*
