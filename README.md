@@ -34,6 +34,10 @@ Graduated: May 2025
 ---
 
 ### 💼 Professional Experience
+#### Qualcomm | *San Diego, CA*
+
+**Software Engineer**  
+*August 2026 – Present*
 
 #### Wells Fargo | *Chandler, AZ*
 
